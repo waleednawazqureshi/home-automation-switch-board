@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    color:white;
+    background-image: url(https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569__480.jpg);
+    background-position: center;
+    background-size: cover;
+    
+}
+button{
+    padding: 5px 25px;
+    color:black;
+    margin:  10px;
+}
